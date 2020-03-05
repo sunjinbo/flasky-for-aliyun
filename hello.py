@@ -8,4 +8,4 @@ def index():
 
 
 if __name__ == '__main__':
-    app.run(host='112.126.78.69', port=80)
+    app.run(debug=True)
